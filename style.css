@@ -1,0 +1,36 @@
+body{
+    background-color: #D5E1EF;
+    min-height: 100vh;
+    font-family: cursive;
+    text-align: center;
+    
+}
+
+.card{
+    position: fixed;
+    margin: auto;
+    /* padding: 1rem; */
+    padding: 14px;
+    padding-bottom: 7rem;
+    inset: 0;
+    width: 100%;
+   max-width: 265px;
+    height: 400px;
+    background-color: white;
+    /* box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3); */
+    box-shadow: 1px 12px 17px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 16px;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+h2{
+    color:#000000d4; 
+}
+p{
+    
+    color: gray;
+    font-size: 15px;
+}
